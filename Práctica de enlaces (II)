@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Glosarío</title>
+  </head>
+  <body>
+  <p>Indice letras:</p>
+<ol>
+   <li>
+   <a name="a"></a>
+   </li>
+   <li>
+   <a name="b"></a>
+   </li>
+   <li>
+   <a name="c"></a>
+   </li>
+   <li>
+   <a name="d"></a>
+   </li>
+   <li>
+   <a name="e"></a>
+   </li>
+   <li>
+   <a name="f"></a>
+   </li>
+   <li>
+</ul>
+<a href=”#a”>Ir a la letra a</a>
+<p>AAA:Dentro de la industria del Software de seguridad significa Autenticación, Autorización y Administración</p>
+<a href=”#b”>Ir a la letra b</a>
+<p>Backdoor:Se llama así cuando usuarios avanzados pueden entrar en sistemas de bancos o grandes empresas y robar información o modificarla a su antojo, debido a que por estas puertas, dejadas por programadores para acceder a sus sistemas, se rompe la seguridad de los programas.</p>
+<a href=”#c”>Ir a la letra c</a>
+<p>CA:(Corriente Alterna) se denomina a la corriente eléctrica en la que la magnitud y el sentido varían cíclicamente
+<a href=”#d”>Ir a la letra d</a>
+<p>Darpa:(Defense Advanced Research Projects Agency). Esta agencia del Gobierno norteamericano creó la red ARPANET, predecesora de la red Internet.
+<a href=”#e”>Ir a la letra e</a>
+<p>EAP:Extensible Authentication Protoco
+<a href=”#f”>Ir a la letra f</a>
+<p>Fander: Función que se utiliza para mezclar pistas de audio y que consiste en incrementar el volumen gradualmente al principio de la canción, y disminuirlo al final. Se denomina "Fade in" y "Fade out".
+  </body>
+</html>
